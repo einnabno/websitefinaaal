@@ -573,6 +573,7 @@ body{
 	background-color: #22B26A;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: mymove 5s infinite;
 }
 
@@ -591,6 +592,7 @@ body{
 	background-color: #fa8072;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: move1 5s infinite;
 }
 
@@ -609,6 +611,7 @@ body{
 	background-color: #B26A22;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: m 5s infinite;
 }
 
@@ -627,6 +630,7 @@ body{
 	background-color: #6AB222;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: o 5s infinite;
 }
 
@@ -645,6 +649,7 @@ body{
 	background-color:#B26A22;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: v 5s infinite;
 }
 
@@ -664,6 +669,7 @@ body{
 	background-color: #B2B222;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: e 5s infinite;
 }
 
@@ -682,6 +688,7 @@ body{
 	background-color:  #22B2B2;
 	text-align: center;
 	font-family: Arial;
+	font-weight: bold;
 	animation: change 5s infinite;
 }
 
