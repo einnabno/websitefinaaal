@@ -716,14 +716,14 @@ body{
 	top: 1300px;
 	width: 300px;
 	height: 80px;
-	background-color: #000;
+	background-color: #f9c00e;
 	opacity: 0.7;
 	font-family: Arial;
 	font-size: 15px;
 	color: red;
 }
 .circ:hover{
-	border: 2px solid #FFF;
+	border: 10px solid #f69b17;
 }
 .box{
 	position: absolute;
@@ -732,14 +732,14 @@ body{
 	top: 1300px;
 	width: 500px;
 	height: 80px;
-	background-color: #000;
+	background-color: #f9c00e;
 	opacity: 0.7;
 	font-family: Arial;
 	font-size: 15px;
 	color: red;
 }
 .box:hover{
-	border: 2px solid #FFF;
+	border: 10px solid #f69b17;
 }
 
 .box1{
@@ -749,14 +749,14 @@ body{
 	top: 1300px;
 	width: 300px;
 	height: 80px;
-	background-color: #000;
+	background-color: #f9c00e;
 	opacity: 0.7;
 	font-family: Arial;
 	font-size: 15px;
 	color: red;
 }
 .box1:hover{
-	border: 2px solid #FFF;
+	border: 10px solid #f69b17;
 }
 
 .container {
