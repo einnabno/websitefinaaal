@@ -114,11 +114,15 @@
 			<div class="box1"><br><center>Choose your Fighter!
 			<br>Pepperoni, Hawaiian, Cheese Overload
 			<br> and Meaty Overload<center></div>
+			<div class="logo_small"></div>
+			<div class="pepper"></div>
+			<div class="pepper1"></div>
+			<div class="pepper2"></div>
 			<div class="footer"><center>
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-instagram"></a>
 <a href="#" class="fa fa-google"></a>
-			<br>Login | Disclaimer | Privacy Policy | Sitemap</div></center>
+			<br>@Yannie'sPizza | @YanNiePizza | @YNPizza | Yannie's Pizza</div></center>
 	</body>
 </html>
